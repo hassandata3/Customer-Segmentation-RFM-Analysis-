@@ -7,7 +7,7 @@ The objective is to transform raw transactional data into meaningful customer se
 
 ---
 
-![image alt](<img width="1894" height="1087" alt="image" src="https://github.com/user-attachments/assets/ce2e796a-b743-40f2-85d2-442621d2eaba" />)
+![image alt](https://github.com/hassandata3/Customer-Segmentation-RFM-Analysis-/blob/main/Dashboard%20page1.png?raw=true)
 
 
 ---
