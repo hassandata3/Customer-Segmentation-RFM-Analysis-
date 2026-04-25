@@ -7,8 +7,12 @@ The objective is to transform raw transactional data into meaningful customer se
 
 ---
 
-![image alt]()
-
+![image alt](<img width="1894" height="1087" alt="image" src="https://github.com/user-attachments/assets/4ddbe68c-2438-40f1-89cc-ae6031ce7616" />
+)
+![image alt](<img width="1892" height="1080" alt="image" src="https://github.com/user-attachments/assets/9624761d-0978-4c5f-851c-4e04d627fb83" />
+)
+![image alt](<img width="1895" height="1077" alt="image" src="https://github.com/user-attachments/assets/fc2926d7-38d8-4bb4-b079-53557004c27f" />
+)
 ---
 
 ## 💡 What is RFM?
