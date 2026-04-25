@@ -7,8 +7,8 @@ The objective is to transform raw transactional data into meaningful customer se
 
 ---
 
-![image alt](<img width="1894" height="1087" alt="image" src="https://github.com/user-attachments/assets/4ddbe68c-2438-40f1-89cc-ae6031ce7616" />
-)
+![image alt](<img width="1894" height="1087" alt="image" src="https://github.com/user-attachments/assets/ce2e796a-b743-40f2-85d2-442621d2eaba" />)
+
 
 ---
 
