@@ -9,6 +9,9 @@ The objective is to transform raw transactional data into meaningful customer se
 
 ![image alt](https://github.com/hassandata3/Customer-Segmentation-RFM-Analysis-/blob/main/Dashboard%20page1.png?raw=true)
 
+![image alt](https://github.com/hassandata3/Customer-Segmentation-RFM-Analysis-/blob/main/Dashboard%20page2.png?raw=true)
+
+![image alt](https://github.com/hassandata3/Customer-Segmentation-RFM-Analysis-/blob/main/Dashboard%20page3.png?raw=true)
 
 ---
 
