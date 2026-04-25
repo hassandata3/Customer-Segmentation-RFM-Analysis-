@@ -4,9 +4,10 @@
 This project analyzes customer behavior using the **RFM (Recency, Frequency, Monetary)** model to segment customers and generate actionable insights.
 
 The objective is to transform raw transactional data into meaningful customer segments that support better business decisions.
+
 ---
 
-
+![image alt]()
 
 ---
 
@@ -38,12 +39,7 @@ This approach helps identify key customer groups such as:
 - Customer segmentation using window functions  
 - Data transformation  
 
-### 3. Python (Optional)
-- Data preprocessing  
-- Feature scaling  
-- K-Means clustering for advanced segmentation  
-
-### 4. Power BI
+### 3. Power BI
 - Interactive dashboard  
 - Data visualization  
 - Insights and recommendations  
@@ -80,9 +76,4 @@ This approach helps identify key customer groups such as:
 ## 🛠 Tools & Technologies
 - Excel  
 - SQL  
-- Python (Pandas, Scikit-learn)  
 - Power BI  
-
----
-
-## 📂 Project Structure
